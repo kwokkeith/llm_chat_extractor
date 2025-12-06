@@ -13,6 +13,10 @@ venv/
 env/
 pip-wheel-metadata/
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1459884 (Added api and refactored package)
 # Conversation data directories
 gemini_convo_data/
 gpt_convo_data/
